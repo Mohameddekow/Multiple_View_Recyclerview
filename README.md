@@ -1,10 +1,13 @@
-# MultipleViewRecyclerview
-# A demonstration on how to Create Multiple ViewType RecyclerView
+# Multiple_View_Recyclerview
+* The app fetches a damy data from an `API` to display on different view on Clients side
+
+## A demonstration on how to Create Multiple ViewType RecyclerView
 ## the project Showcase the use of
 * `Courotines`
 * `APIs`
 * `Dagger-HHilt`
 * `MVVM - Architecture`
+* `Retofit`
 * `Live-Data`
 
 ### laguage used
